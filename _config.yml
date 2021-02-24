@@ -3,5 +3,11 @@ theme: jekyll-theme-slate
 github:
   is_project_page: false
 
-title: [Book-post]
-description: [Book posts of quentindelfosse.me]
+title: Book-post
+email: q.delfosse@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Where I write book-posts, that are not concerning technology.
+  My main site is available at quentindelfosse.me.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  k4ntz
