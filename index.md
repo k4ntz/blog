@@ -5,4 +5,4 @@ Je publie sous forme de book-post:
 
 ### Posts
 
-[![reflexion sur l'amour](images/techlove.jpg)](amour.html)
+[![reflexion sur l'amour](images/techlove.jpg)](amour/index)

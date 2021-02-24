@@ -1,0 +1,16 @@
+# Différence entre émotions et sentiments
+
+Il est utile de distinguer ses deux notions lorsque l'on se réfère à l'amour. Pour résoudre un problème, il est nécessaire de prendre conscience de ce qui le consitue, de ses origines. Or, en français, il est courant de ne distinguer émotions et sentiments. On utilise un l'un et l'autre de manière interchangeable.
+
+Je distingue les deux. L'émotion est un état affectif, qui provoque plaisir ou douleur, nettement prononcé. Il est déclenché et ressenti instantanément. La peur (instantanée) est une émotion. Le sentiment est un état de conscience, qui est déclenché par des émotions et les entretient. L'angoisse vient du sentiment de peur, et l'angoisse nous fait continuellement ressentir de la peur.
+Si vous voyez l'être que vous aimez parler à une autre personne séduisante, vous avez un sentiment de jalousie qui s'installe. Il est dû à une émotion (la peur de perdre l'autre) qui se déclenche lorsque vous les voyez. Le sentiment, lui, reste, et entretient la peur.
+
+
+## A quoi sert un sentiment ?
+Si l'on adopte le modèle de l'[Homme Machine](https://www.wikiwand.com/fr/Homme-machine), l'homme est une machine, composée de capteurs (d'image, de son, de douleur, ... etc), d'actionneurs (muscles, cordes vocales, ... etc) et d'unités de calculs, qui font la jonction. Ces utités sont constituées de neuronnes, du système nerveux, précablé mais cheangeable. On peut concevoir les sentiment comme des unités de calcul "rapide", par opposition aux unités plus lentes. Elles servent à prendre des décisions rapidemment, "intuitives", sans y accorder beaucoup d'attention (et en évitant donc de gaspiller de l'énergie). Cependant, pour les stoïciens notamment, ces unités sont faillibles. C'est pourquoi il faudrait les inhiber et préférer le raisonnement conscient, moins faillible.
+Cependant, une grande partie de la joie, et donc du bonheur, nous est apporté par ses émotions. Plutôt que de les supprimer, Spinoza préfère donc vérifier leur utilité. Il faut donc vérifier qu'une émotion apporte réellement du bonheur, et ne la changer que si elle est source de malheur.
+Ainsi, vous êtes quelqu'un de social, qui se soucie du regard des autres. Si cela vous apporte majoritairement du bien être, il n'y a pas de raison de changer ce comportement et les sentiments qui s'y attraient. 
+
+## Selectionner les sentiments qui rendent heureux
+Il est possible d'agir sur les sentiments et sur les émotions. Nous pouvons travailler à déclencher une émotion et à entretenir un sentiment. Cependant, il est extrêmement difficile d'agir sur une émotion lorsqu'elle est déclenchée. Vous pouvez travailler sur votre angoisse, malgré la peur qui la constitue et qu'elle génère. Cependant, inhiber cette peur au moment ou ce sentiment se libère dans le corps est extrêment difficile, peut-être même impossible. Pareillement, il est possible d'apprendre à ressentir de la [compersion](https://fr.wiktionary.org/wiki/compersion) (sentiment ressenti lorsqu’une autre personne manifeste de la joie ou ressent du plaisir, même avec une tierce personne, par opposition à la jalousie).
+Il est possible de travailler sur son manque de confiance en soi pendant qu'on le vit, mais on ne peut pas inhiber la peur du vide au moment où elle est déclenchée.
