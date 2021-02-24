@@ -3,5 +3,6 @@ theme: jekyll-theme-slate
 github:
   is_project_page: false
 
-title: [Book-post]
+title: Book-post
+email: q.delfosse@gmail.com
 description: [Book posts of quentindelfosse.me]
